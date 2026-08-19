@@ -1,8 +1,15 @@
 {
-  "version": 12,
+  "version": 13,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-19T22:30:35.227Z",
+  "updated": "2026-08-19T23:10:15.695Z",
+  "mediaRefresh": {
+    "enabled": true,
+    "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
+    "sites": [
+      "usersporn.com"
+    ]
+  },
   "activeHeader": {
     "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
     "desktop": {
