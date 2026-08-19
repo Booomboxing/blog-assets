@@ -1,4 +1,285 @@
-
 {
-  "version": 1
+  "version": 12,
+  "schema": "nymbo-boombox-config",
+  "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
+  "updated": "2026-08-19T22:30:35.227Z",
+  "activeHeader": {
+    "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
+    "desktop": {
+      "offsetX": 21,
+      "offsetY": -100,
+      "zoom": 355,
+      "rotation": 0,
+      "gradientX": 55,
+      "fadeWidth": 40,
+      "fadeOpacity": 100,
+      "hardEdge": false,
+      "sourceX": 58,
+      "sourceY": 82
+    },
+    "mobile": {
+      "offsetX": 24,
+      "offsetY": -53,
+      "zoom": 230,
+      "rotation": 0,
+      "gradientX": 58,
+      "fadeWidth": 40,
+      "fadeOpacity": 100,
+      "hardEdge": false,
+      "sourceX": 58,
+      "sourceY": 94
+    },
+    "edgeStyle": "gradient",
+    "speed": 100
+  },
+  "headerMedia": [
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/nut%20suck.gif",
+      "desktop": {
+        "offsetX": 32,
+        "offsetY": 0,
+        "zoom": 510,
+        "rotation": -33,
+        "gradientX": 50,
+        "fadeWidth": 23,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 36,
+        "offsetY": 0,
+        "zoom": 400,
+        "rotation": -31,
+        "gradientX": 70,
+        "fadeWidth": 39,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 100
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/bbc%20suck.mp4",
+      "desktop": {
+        "offsetX": 19,
+        "offsetY": -73,
+        "zoom": 340,
+        "rotation": 0,
+        "gradientX": 45,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": true,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 28,
+        "offsetY": -70,
+        "zoom": 278,
+        "rotation": 0,
+        "gradientX": 58,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": true,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 100
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
+      "desktop": {
+        "offsetX": 22,
+        "offsetY": 51,
+        "zoom": 505,
+        "rotation": -20,
+        "gradientX": 55,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 21,
+        "offsetY": 37,
+        "zoom": 425,
+        "rotation": -33,
+        "gradientX": 58,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 90
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
+      "desktop": {
+        "offsetX": 14,
+        "offsetY": 57,
+        "zoom": 560,
+        "rotation": -46,
+        "gradientX": 55,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 23,
+        "offsetY": 34,
+        "zoom": 430,
+        "rotation": -47,
+        "gradientX": 58,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 100
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
+      "desktop": {
+        "offsetX": 21,
+        "offsetY": -100,
+        "zoom": 355,
+        "rotation": 0,
+        "gradientX": 55,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 24,
+        "offsetY": -53,
+        "zoom": 230,
+        "rotation": 0,
+        "gradientX": 58,
+        "fadeWidth": 40,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 100
+    }
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/241064708.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/355956531.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/630998284.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/680215130.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/746354105.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/964234831.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/1441386877.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/1522939225.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/1711834912.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_331172935.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_593475961.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_721156786.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_745787364.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_746354105.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_875724796.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1188044565.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1261440652.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1363753725.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1541876020.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1592343587.jpg"
+  ],
+  "gifs": [
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1712335987.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/516158671.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/6020279.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1169656266.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1859723995.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/lt21j75ndpye1.gif"
+  ],
+  "sidebarImages": [
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1712335987.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/516158671.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/6020279.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1169656266.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1859723995.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/lt21j75ndpye1.gif"
+  ],
+  "sidebarImage": "",
+  "backgrounds": [],
+  "radioPool": [],
+  "videoSites": [
+    {
+      "name": "SXYPRN",
+      "url": "https://sxyprn.com/"
+    },
+    {
+      "name": "PMVHaven",
+      "url": "https://pmvhaven.com/"
+    },
+    {
+      "name": "TGTube",
+      "url": "https://www.tgtube.com/"
+    },
+    {
+      "name": "Pornditt",
+      "url": "https://pornditt.com/"
+    },
+    {
+      "name": "Eporner",
+      "url": "https://www.eporner.com/"
+    },
+    {
+      "name": "Coomer",
+      "url": "https://coomerfans.com/"
+    },
+    {
+      "name": "mat6tube",
+      "url": "https://mat6tube.com/"
+    },
+    {
+      "name": "Noodlemagazine",
+      "url": "https://noodlemagazine.com/home"
+    },
+    {
+      "name": "tgtsporn",
+      "url": "https://tgtsporn.com/"
+    },
+    {
+      "name": "usersporn",
+      "url": "https://usersporn.com/"
+    },
+    {
+      "name": "usersporn - assman",
+      "url": "https://usersporn.com/videos/assman/396311/?Link_id=1562590"
+    },
+    {
+      "name": "tnaflix",
+      "url": "https://www.tnaflix.com/"
+    },
+    {
+      "name": "imagefap",
+      "url": "https://www.imagefap.com/"
+    }
+  ]
 }
