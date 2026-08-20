@@ -2,7 +2,7 @@
   "version": 14,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-20T00:52:49.625Z",
+  "updated": "2026-08-20T04:08:56.446Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -388,6 +388,10 @@
     {
       "name": "imagefap",
       "url": "https://www.imagefap.com/"
+    },
+    {
+      "name": "fpo.xxx",
+      "url": "https://www.fpo.xxx/video/1219683/trans-ss-gape-sailor-sammi-sammi-smith/"
     }
   ]
 }
