@@ -1,8 +1,8 @@
 {
-  "version": 15,
+  "version": 16,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-20T21:49:26.113Z",
+  "updated": "2026-08-20T22:42:00.342Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -44,72 +44,6 @@
     "speed": 100
   },
   "headerMedia": [
-    {
-      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/nut%20suck.gif",
-      "desktop": {
-        "offsetX": 32,
-        "offsetY": 0,
-        "zoom": 510,
-        "rotation": -33,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 50,
-        "fadeWidth": 23,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 82
-      },
-      "mobile": {
-        "offsetX": 36,
-        "offsetY": 0,
-        "zoom": 400,
-        "rotation": -31,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 70,
-        "fadeWidth": 39,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 94
-      },
-      "edgeStyle": "gradient",
-      "speed": 100
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/bbc%20suck.mp4",
-      "desktop": {
-        "offsetX": 19,
-        "offsetY": -73,
-        "zoom": 340,
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 45,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": true,
-        "sourceX": 58,
-        "sourceY": 82
-      },
-      "mobile": {
-        "offsetX": 28,
-        "offsetY": -70,
-        "zoom": 278,
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 58,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": true,
-        "sourceX": 58,
-        "sourceY": 94
-      },
-      "edgeStyle": "gradient",
-      "speed": 100
-    },
     {
       "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
       "desktop": {
@@ -243,8 +177,11 @@
       "speed": 100
     }
   ],
-  "headerCycleVideos": [
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/bbc%20suck.mp4"
+  "headerCycle": [
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif"
   ],
   "galleryImages": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/241064708.jpg",
@@ -279,7 +216,11 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1859723995.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/lt21j75ndpye1.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/nut%20suck.gif"
+  ],
+  "clips": [
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/bbc%20suck.mp4"
   ],
   "sidebarImages": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1712335987.gif",
@@ -292,7 +233,8 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1859723995.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/lt21j75ndpye1.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/nut%20suck.gif"
   ],
   "sidebarImage": "",
   "backgrounds": [],
