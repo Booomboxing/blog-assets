@@ -2,7 +2,7 @@
   "version": 16,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-20T22:44:02.705Z",
+  "updated": "2026-08-20T22:45:52.295Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -203,7 +203,9 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1261440652.jpg",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1363753725.jpg",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1541876020.jpg",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1592343587.jpg"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1592343587.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/117794615.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/564685359.jpg"
   ],
   "gifs": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1712335987.gif",
