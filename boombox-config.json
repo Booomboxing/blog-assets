@@ -1,8 +1,8 @@
 {
-  "version": 13,
+  "version": 14,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-19T23:10:15.695Z",
+  "updated": "2026-08-20T00:52:49.625Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -234,7 +234,108 @@
   ],
   "sidebarImage": "",
   "backgrounds": [],
-  "radioPool": [],
+  "musicLibrary": [
+    {
+      "id": "song-1787186053828-32fdf27bbe10e",
+      "artist": "Christina Aguilera",
+      "song": "Dirrty",
+      "youtubeId": "4Rg3sAb8Id8",
+      "url": "https://www.youtube.com/watch?v=4Rg3sAb8Id8",
+      "favourite": false,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186084942-52e5889ce6a25",
+      "artist": "Miley Cyrus",
+      "song": "23",
+      "youtubeId": "bbEoRnaOIbs",
+      "url": "https://www.youtube.com/watch?v=bbEoRnaOIbs",
+      "favourite": true,
+      "tags": [],
+      "added": "2026-08-20T00:51:06.504Z"
+    },
+    {
+      "id": "song-1787186117080-5a46b01f2d5688",
+      "artist": "Megan Thee Stallion",
+      "song": "Girls in the Hood",
+      "youtubeId": "l3Cj7Esqr0c",
+      "url": "https://www.youtube.com/watch?v=l3Cj7Esqr0c",
+      "favourite": true,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186144109-346ae1060400e8",
+      "artist": "Saweetie",
+      "song": "My Type",
+      "youtubeId": "dWK8q0lqJ_E",
+      "url": "https://www.youtube.com/watch?v=dWK8q0lqJ_E",
+      "favourite": true,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186159686-e98a667754a68",
+      "artist": "Cardi B",
+      "song": "Up",
+      "youtubeId": "rCiBgLOcuKU",
+      "url": "https://www.youtube.com/watch?v=rCiBgLOcuKU",
+      "favourite": false,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186177937-3231b1899587",
+      "artist": "Megan Thee Stalion",
+      "song": "Thot Shit",
+      "youtubeId": "CK5D6RmEaSg",
+      "url": "https://www.youtube.com/watch?v=CK5D6RmEaSg",
+      "favourite": true,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186195645-8c510aa1fb19f8",
+      "artist": "Erika Banks",
+      "song": "Buss It",
+      "youtubeId": "NOoHJ_ZXlJU",
+      "url": "https://www.youtube.com/watch?v=NOoHJ_ZXlJU",
+      "favourite": false,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186210585-9cea360a7c19d",
+      "artist": "Megan Thee Stallion",
+      "song": "Freak Nasty",
+      "youtubeId": "DNVuhP8ehdo",
+      "url": "https://www.youtube.com/watch?v=DNVuhP8ehdo",
+      "favourite": false,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186230905-81970b91dbd13",
+      "artist": "Saweetie",
+      "song": "Tap In",
+      "youtubeId": "jUIrolORx6M",
+      "url": "https://www.youtube.com/watch?v=jUIrolORx6M",
+      "favourite": false,
+      "tags": [],
+      "added": ""
+    },
+    {
+      "id": "song-1787186246861-d7ec6971ce3a7",
+      "artist": "Rubi Rose",
+      "song": "I Like",
+      "youtubeId": "f8B-ZuO--ho",
+      "url": "https://www.youtube.com/watch?v=f8B-ZuO--ho",
+      "favourite": true,
+      "tags": [],
+      "added": "2026-08-20T00:52:11.576Z"
+    }
+  ],
   "videoSites": [
     {
       "name": "SXYPRN",
