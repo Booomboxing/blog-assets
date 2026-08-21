@@ -2,7 +2,7 @@
   "version": 16,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-21T01:08:01.217Z",
+  "updated": "2026-08-21T02:08:57.407Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -11,50 +11,50 @@
     ]
   },
   "activeHeader": {
-    "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
+    "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
     "desktop": {
-      "offsetX": 16,
-      "offsetY": -82,
-      "zoom": 635,
-      "rotation": -32,
-      "flipX": true,
+      "offsetX": 10,
+      "offsetY": 51,
+      "zoom": 505,
+      "rotation": -20,
+      "flipX": false,
       "flipY": false,
-      "gradientX": 46,
-      "fadeWidth": 8,
+      "gradientX": 42,
+      "fadeWidth": 10,
       "fadeOpacity": 100,
       "hardEdge": false,
       "sourceX": 58,
       "sourceY": 82
     },
     "mobile": {
-      "offsetX": 23,
-      "offsetY": -61,
-      "zoom": 415,
-      "rotation": -35,
-      "flipX": true,
+      "offsetX": 21,
+      "offsetY": 48,
+      "zoom": 380,
+      "rotation": -33,
+      "flipX": false,
       "flipY": false,
-      "gradientX": 59,
-      "fadeWidth": 10,
+      "gradientX": 53,
+      "fadeWidth": 9,
       "fadeOpacity": 100,
       "hardEdge": false,
       "sourceX": 58,
       "sourceY": 94
     },
     "edgeStyle": "gradient",
-    "speed": 100
+    "speed": 90
   },
   "headerMedia": [
     {
       "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
       "desktop": {
-        "offsetX": 22,
+        "offsetX": 10,
         "offsetY": 51,
         "zoom": 505,
         "rotation": -20,
         "flipX": false,
         "flipY": false,
-        "gradientX": 55,
-        "fadeWidth": 40,
+        "gradientX": 42,
+        "fadeWidth": 10,
         "fadeOpacity": 100,
         "hardEdge": false,
         "sourceX": 58,
@@ -62,13 +62,13 @@
       },
       "mobile": {
         "offsetX": 21,
-        "offsetY": 37,
-        "zoom": 425,
+        "offsetY": 48,
+        "zoom": 380,
         "rotation": -33,
         "flipX": false,
         "flipY": false,
-        "gradientX": 58,
-        "fadeWidth": 40,
+        "gradientX": 53,
+        "fadeWidth": 9,
         "fadeOpacity": 100,
         "hardEdge": false,
         "sourceX": 58,
@@ -76,72 +76,6 @@
       },
       "edgeStyle": "gradient",
       "speed": 90
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
-      "desktop": {
-        "offsetX": 17,
-        "offsetY": 57,
-        "zoom": 585,
-        "rotation": 39,
-        "flipX": true,
-        "flipY": false,
-        "gradientX": 55,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 82
-      },
-      "mobile": {
-        "offsetX": 23,
-        "offsetY": 34,
-        "zoom": 430,
-        "rotation": -47,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 58,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 94
-      },
-      "edgeStyle": "gradient",
-      "speed": 100
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
-      "desktop": {
-        "offsetX": 21,
-        "offsetY": -100,
-        "zoom": 355,
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 55,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 82
-      },
-      "mobile": {
-        "offsetX": 24,
-        "offsetY": -53,
-        "zoom": 230,
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 58,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 94
-      },
-      "edgeStyle": "gradient",
-      "speed": 100
     },
     {
       "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
@@ -208,14 +142,46 @@
       },
       "edgeStyle": "gradient",
       "speed": 100
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif",
+      "desktop": {
+        "offsetX": 22,
+        "offsetY": -2,
+        "zoom": 300,
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "gradientX": 53,
+        "fadeWidth": 10,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 82
+      },
+      "mobile": {
+        "offsetX": 16,
+        "offsetY": 0,
+        "zoom": 300,
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "gradientX": 48,
+        "fadeWidth": 8,
+        "fadeOpacity": 100,
+        "hardEdge": false,
+        "sourceX": 58,
+        "sourceY": 94
+      },
+      "edgeStyle": "gradient",
+      "speed": 100
     }
   ],
   "headerCycle": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1603559340.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/VN.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif"
   ],
   "galleryImages": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/241064708.jpg",
