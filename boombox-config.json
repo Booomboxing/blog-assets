@@ -1,8 +1,8 @@
 {
-  "version": 16,
+  "version": 17,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-21T03:20:39.295Z",
+  "updated": "2026-08-21T21:49:14.078Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -206,6 +206,15 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/imagefap_13441427_1592343587.jpg",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/117794615.jpg",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/564685359.jpg"
+  ],
+  "imageFapGalleries": [
+    {
+      "id": "ifap-1787348935229-cc5008f61a2668",
+      "galleryId": "",
+      "title": "Hannah Hayes Takes 2 BBC",
+      "url": "https://www.imagefap.com/pictures/14226946/Hannah%20Hays%20-%20Teen%20BBC%20Slut%20makes%20Daddy%20watch",
+      "cover": ""
+    }
   ],
   "gifs": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1712335987.gif",
