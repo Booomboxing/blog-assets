@@ -1,8 +1,8 @@
 {
-  "version": 18,
+  "version": 19,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-22T18:50:02.924Z",
+  "updated": "2026-08-22T19:14:10.281Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -558,6 +558,524 @@
       "favourite": false,
       "tags": [],
       "added": "2026-08-22T18:43:40.956Z"
+    }
+  ],
+  "dirtyRapAlbums": [
+    {
+      "id": "album-1787425733928-25addf83e04908",
+      "artist": "Megan Thee Stallion",
+      "album": "MEGAN: ACT II",
+      "year": "2025",
+      "cover": "https://i9.ytimg.com/s_p/OLAK5uy_nAuPTAszylfiA3_6hogFfujT29OTXiZic/maxresdefault.jpg?sqp=CNzlp9QGir7X7AMICOKysr0GEAE=&rs=AOn4CLC5oLehLebMciecpLxjsnU6z-IAOA&v=1739364706",
+      "tracks": [
+        {
+          "youtubeId": "XVgCLQ_JQfU",
+          "startSeconds": 0,
+          "song": "HISS",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "qY6qwqVCsww",
+          "startSeconds": 0,
+          "song": "Rattle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "vReCvOUP4C8",
+          "startSeconds": 0,
+          "song": "Figueroa",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "O3ZP8JlG8mY",
+          "startSeconds": 0,
+          "song": "Where Them Girls At",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "N8FBY-9_MHE",
+          "startSeconds": 0,
+          "song": "Broke His Heart",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "ybV3JIUrpvg",
+          "startSeconds": 0,
+          "song": "B.A.S. (feat. Kyle Richh)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "6t4Idr4Xq-Q",
+          "startSeconds": 0,
+          "song": "OTAKU HOT GIRL (Japan BTS)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "T1NPh8dS-Lw",
+          "startSeconds": 0,
+          "song": "Find Out",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "TKQY2ZlIEjY",
+          "startSeconds": 0,
+          "song": "BOA",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "OdxSbc0ap-s",
+          "startSeconds": 0,
+          "song": "Mamushi (feat. Yuki Chiba)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "pP-TJ-7pJqs",
+          "startSeconds": 0,
+          "song": "Accent (feat. Glorilla)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "s3VLNjHIsUA",
+          "startSeconds": 0,
+          "song": "Paper Together (feat. UGK)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "f_Q7nUyLtWw",
+          "startSeconds": 0,
+          "song": "Spin (feat. Victoria Monet)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "4kIhDeKTw7Y",
+          "startSeconds": 0,
+          "song": "Down Stairs DJ",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "9exQt_pud54",
+          "startSeconds": 0,
+          "song": "Miami Blue",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "rUplhHcjkeg",
+          "startSeconds": 0,
+          "song": "Worthy",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "zF7FfdkesX0",
+          "startSeconds": 0,
+          "song": "Moody Girl",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "DOZNRoL0310",
+          "startSeconds": 0,
+          "song": "Cobra",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "QxTkZTLWdo4",
+          "startSeconds": 0,
+          "song": "Bigger In Texas",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "_MvAtLDUxqQ",
+          "startSeconds": 0,
+          "song": "Bourbon Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "RpNyQO9HGHE",
+          "startSeconds": 0,
+          "song": "Number One Rule",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "HozPPyqW0dY",
+          "startSeconds": 0,
+          "song": "Roc Steady (feat. Flo Milli)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "yl8l0apT3gw",
+          "startSeconds": 0,
+          "song": "Best Friend",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "oB9M6vWDrGw",
+          "startSeconds": 0,
+          "song": "Right Now",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "5c0_u9PsrsQ",
+          "startSeconds": 0,
+          "song": "Mamushi (Remix) [feat. TWICE]",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "-7Po45IjXYA",
+          "startSeconds": 0,
+          "song": "TYG (feat. Spiritbox)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "4BPDFFdBnu0",
+          "startSeconds": 0,
+          "song": "Motion",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "KUzFM69oSUw",
+          "startSeconds": 0,
+          "song": "Fell In Love",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "WK9gEsYVMqo",
+          "startSeconds": 0,
+          "song": "I Luv Her Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "I8em9_7_BNY",
+          "startSeconds": 0,
+          "song": "Like a Freak B!tch Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "TpYTyAaTRts",
+          "startSeconds": 0,
+          "song": "Neva Play (feat. RM)",
+          "artist": "Megan Thee Stallion"
+        }
+      ]
+    },
+    {
+      "id": "album-1787425950203-3bb81dc3498fc8",
+      "artist": "Megan Thee Stallion",
+      "album": "MEGAN",
+      "year": "2026",
+      "cover": "https://i9.ytimg.com/s_p/OLAK5uy_k1iC0tGi6UB1UbuXeGW9uvs3LEWuuiFbI/maxresdefault.jpg?sqp=CIjop9QGir7X7AMICKqJuL0GEAE=&rs=AOn4CLCOL4Q5RGzDy_6wxTd9vHixdEwpXg&v=1739457706",
+      "tracks": [
+        {
+          "youtubeId": "XVgCLQ_JQfU",
+          "startSeconds": 0,
+          "song": "HISS",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "qY6qwqVCsww",
+          "startSeconds": 0,
+          "song": "Rattle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "vReCvOUP4C8",
+          "startSeconds": 0,
+          "song": "Figueroa",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "O3ZP8JlG8mY",
+          "startSeconds": 0,
+          "song": "Where Them Girls At",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "N8FBY-9_MHE",
+          "startSeconds": 0,
+          "song": "Broke His Heart",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "ybV3JIUrpvg",
+          "startSeconds": 0,
+          "song": "B.A.S. (feat. Kyle Richh)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "6t4Idr4Xq-Q",
+          "startSeconds": 0,
+          "song": "OTAKU HOT GIRL (Japan BTS)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "T1NPh8dS-Lw",
+          "startSeconds": 0,
+          "song": "Find Out",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "TKQY2ZlIEjY",
+          "startSeconds": 0,
+          "song": "BOA",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "OdxSbc0ap-s",
+          "startSeconds": 0,
+          "song": "Mamushi (feat. Yuki Chiba)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "pP-TJ-7pJqs",
+          "startSeconds": 0,
+          "song": "Accent (feat. Glorilla)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "s3VLNjHIsUA",
+          "startSeconds": 0,
+          "song": "Paper Together (feat. UGK)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "f_Q7nUyLtWw",
+          "startSeconds": 0,
+          "song": "Spin (feat. Victoria Monet)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "4kIhDeKTw7Y",
+          "startSeconds": 0,
+          "song": "Down Stairs DJ",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "9exQt_pud54",
+          "startSeconds": 0,
+          "song": "Miami Blue",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "rUplhHcjkeg",
+          "startSeconds": 0,
+          "song": "Worthy",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "zF7FfdkesX0",
+          "startSeconds": 0,
+          "song": "Moody Girl",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "DOZNRoL0310",
+          "startSeconds": 0,
+          "song": "Cobra",
+          "artist": "Megan Thee Stallion"
+        }
+      ]
+    },
+    {
+      "id": "album-1787426002837-d41a16f3c2b0f",
+      "artist": "Megan Thee Stallion",
+      "album": "Wanna Be (Alternate Versions)",
+      "year": "2026",
+      "cover": "https://i9.ytimg.com/s_p/OLAK5uy_m92NPgsO_jEOPGQQcGbQFlhPURdh-ymCY/maxresdefault.jpg?sqp=CIjop9QGir7X7AMICPHurb0GEAE=&rs=AOn4CLBvtQHhyDVbmpVygDPOc7Awat-8xw&v=1739290481",
+      "tracks": [
+        {
+          "youtubeId": "BT_83vSP1es",
+          "startSeconds": 0,
+          "song": "Wanna Be",
+          "artist": "GloRilla, Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "BT_83vSP1es",
+          "startSeconds": 0,
+          "song": "Wanna Be",
+          "artist": "GloRilla, Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "3fzClWt3mLM",
+          "startSeconds": 0,
+          "song": "Wanna Be (Chopped And Screwed)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "fXMljjxOyRk",
+          "startSeconds": 0,
+          "song": "Wanna Be (Chopped And Screwed)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "ojvlofZ4SH0",
+          "startSeconds": 0,
+          "song": "Wanna Be (Sped Up)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "NSnppF_ekNc",
+          "startSeconds": 0,
+          "song": "Wanna Be (Sped Up)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "2T3H49O8v8I",
+          "startSeconds": 0,
+          "song": "Wanna Be (Slowed)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "KykoOV3R2iM",
+          "startSeconds": 0,
+          "song": "Wanna Be (Slowed)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "BT_83vSP1es",
+          "startSeconds": 0,
+          "song": "Wanna Be",
+          "artist": "GloRilla, Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "BT_83vSP1es",
+          "startSeconds": 0,
+          "song": "Wanna Be",
+          "artist": "GloRilla, Megan Thee Stallion"
+        }
+      ]
+    },
+    {
+      "id": "album-1787426031325-76699e2429362",
+      "artist": "Megan Thee Stallion",
+      "album": "Something for Thee Hotties",
+      "year": "2026",
+      "cover": "https://i9.ytimg.com/s_p/OLAK5uy_kVHXtjy00c8s6sgWLvTTB-06m8MU3Ly6I/maxresdefault.jpg?sqp=CIjop9QGir7X7AMICI6bmr0GEAE=&rs=AOn4CLBKmIQ0qWGjIxoRkinUDslEw0AFFg&v=1738968462",
+      "tracks": [
+        {
+          "youtubeId": "PTmo_h4C2Gs",
+          "startSeconds": 0,
+          "song": "Tuned In Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "GTCO3RHDgbA",
+          "startSeconds": 0,
+          "song": "Megan Monday Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "0II1xcYjkmo",
+          "startSeconds": 0,
+          "song": "Trippy Skit (feat. Juicy J)",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "8mTZAcgfeYw",
+          "startSeconds": 0,
+          "song": "Southside Forever Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "8-Wp_e_4owU",
+          "startSeconds": 0,
+          "song": "Outta Town Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "77ZCb8tILCw",
+          "startSeconds": 0,
+          "song": "Megan's Piano",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "T_4TPxAb7ww",
+          "startSeconds": 0,
+          "song": "VickeeLo and Dino Btw Skit",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "DF_Obg8jocs",
+          "startSeconds": 0,
+          "song": "Eat It",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "j12LgCxc6SM",
+          "startSeconds": 0,
+          "song": "All Of It",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "1bOAiy-Ciac",
+          "startSeconds": 0,
+          "song": "Warning",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "U-r5KVdMMWg",
+          "startSeconds": 0,
+          "song": "Kitty Kat",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "_0p9n5-D9hQ",
+          "startSeconds": 0,
+          "song": "Tina Snow Interlude",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "9UP1TyYTXd8",
+          "startSeconds": 0,
+          "song": "God's Favorite",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "dcijfZBTKts",
+          "startSeconds": 0,
+          "song": "Let Me See It",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "8o1dgB_XMm0",
+          "startSeconds": 0,
+          "song": "Opposite Day",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "g748KgoagT0",
+          "startSeconds": 0,
+          "song": "Freakend",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "mvNbt4OyowE",
+          "startSeconds": 0,
+          "song": "Bae Goals",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "JtQ_eMfG_ic",
+          "startSeconds": 0,
+          "song": "Pipe Up",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "tYKWG4fkaFA",
+          "startSeconds": 0,
+          "song": "Bless The Booth Freestyle",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "KynkMn5Hv3Q",
+          "startSeconds": 0,
+          "song": "Thot Shit",
+          "artist": "Megan Thee Stallion"
+        },
+        {
+          "youtubeId": "RXtdKsTGtUw",
+          "startSeconds": 0,
+          "song": "To Thee Hotties",
+          "artist": "Megan Thee Stallion"
+        }
+      ]
     }
   ],
   "videoSites": [
