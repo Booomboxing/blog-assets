@@ -1,8 +1,8 @@
 {
-  "version": 17,
+  "version": 18,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-22T02:49:30.381Z",
+  "updated": "2026-08-22T03:35:34.354Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -19,14 +19,6 @@
       "rotation": 0,
       "flipX": false,
       "flipY": false,
-      "gradientX": 49,
-      "fadeWidth": 10,
-      "fadeOpacity": 100,
-      "hardEdge": false,
-      "blueGradientX": 83,
-      "blueFadeWidth": 16,
-      "blueFadeOpacity": 100,
-      "blueHardEdge": false,
       "sourceX": 58,
       "sourceY": 82
     },
@@ -37,18 +29,9 @@
       "rotation": 0,
       "flipX": false,
       "flipY": false,
-      "gradientX": 48,
-      "fadeWidth": 15,
-      "fadeOpacity": 100,
-      "hardEdge": false,
-      "blueGradientX": 92,
-      "blueFadeWidth": 8,
-      "blueFadeOpacity": 100,
-      "blueHardEdge": false,
       "sourceX": 58,
       "sourceY": 94
     },
-    "edgeStyle": "gradient",
     "speed": 100
   },
   "headerMedia": [
@@ -61,14 +44,6 @@
         "rotation": -20,
         "flipX": false,
         "flipY": false,
-        "gradientX": 42,
-        "fadeWidth": 10,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 82
       },
@@ -79,37 +54,20 @@
         "rotation": -33,
         "flipX": false,
         "flipY": false,
-        "gradientX": 53,
-        "fadeWidth": 9,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 94
       },
-      "edgeStyle": "gradient",
       "speed": 90
     },
     {
       "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
       "desktop": {
-        "offsetX": 27,
+        "offsetX": 5,
         "offsetY": -122,
         "zoom": 450,
         "rotation": 11,
         "flipX": false,
         "flipY": false,
-        "gradientX": 55,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 82
       },
@@ -120,18 +78,9 @@
         "rotation": 10,
         "flipX": false,
         "flipY": false,
-        "gradientX": 58,
-        "fadeWidth": 40,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 94
       },
-      "edgeStyle": "gradient",
       "speed": 100
     },
     {
@@ -143,14 +92,6 @@
         "rotation": -32,
         "flipX": true,
         "flipY": false,
-        "gradientX": 46,
-        "fadeWidth": 8,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 82
       },
@@ -161,18 +102,9 @@
         "rotation": -35,
         "flipX": true,
         "flipY": false,
-        "gradientX": 59,
-        "fadeWidth": 10,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 98,
-        "blueFadeWidth": 6,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 94
       },
-      "edgeStyle": "gradient",
       "speed": 100
     },
     {
@@ -184,14 +116,6 @@
         "rotation": 0,
         "flipX": false,
         "flipY": false,
-        "gradientX": 49,
-        "fadeWidth": 10,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 83,
-        "blueFadeWidth": 16,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 82
       },
@@ -202,18 +126,9 @@
         "rotation": 0,
         "flipX": false,
         "flipY": false,
-        "gradientX": 48,
-        "fadeWidth": 15,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "blueGradientX": 92,
-        "blueFadeWidth": 8,
-        "blueFadeOpacity": 100,
-        "blueHardEdge": false,
         "sourceX": 58,
         "sourceY": 94
       },
-      "edgeStyle": "gradient",
       "speed": 100
     }
   ],
@@ -223,6 +138,36 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif"
   ],
+  "headerGradients": {
+    "desktop": {
+      "pink": {
+        "edgeX": 49,
+        "width": 10,
+        "opacity": 100,
+        "hardEdge": false
+      },
+      "blue": {
+        "edgeX": 83,
+        "width": 16,
+        "opacity": 100,
+        "hardEdge": false
+      }
+    },
+    "mobile": {
+      "pink": {
+        "edgeX": 48,
+        "width": 15,
+        "opacity": 100,
+        "hardEdge": false
+      },
+      "blue": {
+        "edgeX": 92,
+        "width": 8,
+        "opacity": 100,
+        "hardEdge": false
+      }
+    }
+  },
   "galleryImages": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/241064708.jpg",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/355956531.jpg",
