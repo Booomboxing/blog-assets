@@ -2,7 +2,7 @@
   "version": 17,
   "schema": "nymbo-boombox-config",
   "configSource": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/boombox-config.json",
-  "updated": "2026-08-22T01:30:14.090Z",
+  "updated": "2026-08-22T02:10:03.316Z",
   "mediaRefresh": {
     "enabled": true,
     "endpoint": "https://nymbo-media-refresh.nymbo778.workers.dev",
@@ -11,16 +11,16 @@
     ]
   },
   "activeHeader": {
-    "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg",
+    "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif",
     "desktop": {
-      "offsetX": 16,
-      "offsetY": 10,
-      "zoom": 375,
-      "rotation": -5,
+      "offsetX": 22,
+      "offsetY": -2,
+      "zoom": 300,
+      "rotation": 0,
       "flipX": false,
       "flipY": false,
-      "gradientX": 38,
-      "fadeWidth": 9,
+      "gradientX": 53,
+      "fadeWidth": 10,
       "fadeOpacity": 100,
       "hardEdge": false,
       "sourceX": 58,
@@ -30,11 +30,11 @@
       "offsetX": 16,
       "offsetY": 0,
       "zoom": 300,
-      "rotation": -5,
+      "rotation": 0,
       "flipX": false,
       "flipY": false,
-      "gradientX": 50,
-      "fadeWidth": 12,
+      "gradientX": 48,
+      "fadeWidth": 8,
       "fadeOpacity": 100,
       "hardEdge": false,
       "sourceX": 58,
@@ -175,47 +175,13 @@
       },
       "edgeStyle": "gradient",
       "speed": 100
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg",
-      "desktop": {
-        "offsetX": 16,
-        "offsetY": 10,
-        "zoom": 375,
-        "rotation": -5,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 38,
-        "fadeWidth": 9,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 82
-      },
-      "mobile": {
-        "offsetX": 16,
-        "offsetY": 0,
-        "zoom": 300,
-        "rotation": -5,
-        "flipX": false,
-        "flipY": false,
-        "gradientX": 50,
-        "fadeWidth": 12,
-        "fadeOpacity": 100,
-        "hardEdge": false,
-        "sourceX": 58,
-        "sourceY": 94
-      },
-      "edgeStyle": "gradient",
-      "speed": 100
     }
   ],
   "headerCycle": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/2009358207.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/544232845.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif"
   ],
   "galleryImages": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gallery/241064708.jpg",
@@ -400,7 +366,8 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/fa2ehj27b17f1.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/nut%20suck.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif"
   ],
   "clips": [
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/headers/bbc%20suck.mp4"
@@ -439,7 +406,8 @@
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/fa2ehj27b17f1.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/iso8h5bxuoag1-NEW.gif",
     "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/nut%20suck.gif",
-    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg"
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1319190923.jpg",
+    "https://raw.githubusercontent.com/Booomboxing/blog-assets/main/gifs/1334793962.gif"
   ],
   "sidebarImage": "",
   "backgrounds": [],
